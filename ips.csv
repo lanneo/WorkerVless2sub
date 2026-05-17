@@ -1,68 +1,68 @@
-IP地址,端口号,TLS,丢包率,网络延迟,下载速度,出站IP,IP类型,数据中心,源IP位置,地区,城市,ASN号码,ASN组织
-122.10.119.252,443,true,0%,51ms,-,2404:8c80:85:1067::4f,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS55933,Cloudie Limited
-205.189.160.29,443,true,0%,52ms,-,2001:df1:801:a020::126:4d96,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS133752,LEASEWEB HONG KONG LIMITED
-219.76.13.183,443,true,0%,53ms,-,219.76.13.183,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS4760,HKT Limited
-163.5.58.140,443,true,0%,53ms,-,2400:f880:d5d:8aa6::8,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS42960,VH Global Limited
-38.147.173.136,443,true,0%,54ms,-,2001:df1:7880:100::1b3,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS139659,LUCIDACLOUD LIMITED
-219.76.13.169,443,true,0%,55ms,-,219.76.13.169,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS4760,HKT Limited
-219.76.13.166,443,true,0%,55ms,-,219.76.13.166,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS4760,HKT Limited
-43.254.164.50,8443,true,0%,55ms,-,2401:b60:e0fd:3c::2,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS202662,Hytron Network Services Limited
-47.83.14.42,8443,true,0%,56ms,-,240b:4001:22a:d400:9ea6:f63a:7aaa:f612,IPv6,TPE,HK,Asia Pacific,Taipei,AS45102,"Alibaba US Technology Co., Ltd."
-43.154.131.189,443,true,0%,56ms,-,43.154.131.189,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS132203,"Tencent Building, Kejizhongyi Avenue"
-47.242.28.106,443,true,0%,57ms,-,2401:c080:3800:2097:5400:5ff:feeb:9e0b,IPv6,KIX,JP,Asia Pacific,Osaka,AS20473,"The Constant Company, LLC"
-91.213.189.79,443,true,0%,58ms,-,2401:1fe0:6::ea,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS967,VMISS Inc.
-172.105.240.40,443,true,0%,58ms,-,2400:8902::f03c:92ff:fe59:8612,IPv6,NRT,JP,Asia Pacific,Tokyo,AS63949,Akamai Connected Cloud
-103.43.191.121,8443,true,0%,59ms,-,2404:ccc0:263:110:5054:ff:fe74:b34b,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS139021,West263 International Limited
-103.224.80.7,2087,true,0%,61ms,-,2a09:bac5:3982:16d2::246:b8,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS13335,"Cloudflare, Inc."
-103.39.78.118,8443,true,0%,61ms,-,2401:b60:e0fd:3c::2,IPv6,HKG,HK,Asia Pacific,Hong Kong,AS202662,Hytron Network Services Limited
-43.207.197.79,443,true,0%,63ms,-,2406:da14:f36:9b00:5ea1:eaee:e645:bc5f,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-45.8.115.105,2096,true,0%,64ms,-,2a10:480:1::104d,IPv6,KIX,JP,Asia Pacific,Osaka,AS4785,xTom
-172.238.6.57,443,true,0%,65ms,-,172.238.6.57,IPv4,NRT,JP,Asia Pacific,Tokyo,AS63949,Akamai Connected Cloud
-35.79.146.187,443,true,0%,66ms,-,2406:da14:1441:4f00:10fe:a324:c958:e2b4,IPv6,NRT,JP,Asia Pacific,Tokyo,AS16509,"Amazon.com, Inc."
-103.192.179.132,443,true,0%,67ms,-,103.192.179.132,IPv4,HKG,HK,Asia Pacific,Hong Kong,AS150452,LANDUPS LIMITED
-158.51.110.61,8443,true,0%,71ms,-,2602:fd6f:80::d2,IPv6,NRT,JP,Asia Pacific,Tokyo,AS18526,"DDPS Networks, LLC"
-47.79.38.36,443,true,0%,77ms,-,240b:4009:25a:1801:ffff:4c32:443b:1cf5,IPv6,NRT,JP,Asia Pacific,Tokyo,AS45102,"Alibaba US Technology Co., Ltd."
-45.196.233.37,443,true,0%,78ms,-,2602:fa4f:a30:3838:976c:76f6:ec2a:f781,IPv6,NRT,KR,Asia Pacific,Tokyo,AS61112,AKILE LTD
-216.23.86.62,2053,true,0%,78ms,-,2a13:edc0:24:236::a,IPv6,NRT,JP,Asia Pacific,Tokyo,AS216211,Cyberverse LLC
-151.241.131.13,8443,true,0%,80ms,-,151.241.131.13,IPv4,NRT,JP,Asia Pacific,Tokyo,AS36530,IDC Cube
-154.12.191.129,443,true,0%,80ms,-,2403:18c0:1001:466:9832:9aff:fe5d:65bb,IPv6,NRT,JP,Asia Pacific,Tokyo,AS906,DMIT Cloud Services
-43.160.195.223,443,true,0%,82ms,-,43.160.195.223,IPv4,SIN,SG,Asia Pacific,Singapore,AS132203,"Tencent Building, Kejizhongyi Avenue"
-195.172.138.225,443,true,0%,83ms,-,2a13:edc0:1:f2::a,IPv6,SIN,SG,Asia Pacific,Singapore,AS216245,Cyberjet Pte. Ltd.
-146.190.87.188,443,true,0%,83ms,-,2400:6180:0:d2:0:2:c821:a000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-152.42.247.235,443,true,0%,83ms,-,2400:6180:0:d2:0:2:c454:0,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-139.162.62.195,443,true,0%,83ms,-,2400:8901::f03c:93ff:fea5:29b5,IPv6,SIN,SG,Asia Pacific,Singapore,AS63949,Akamai Connected Cloud
-47.82.178.58,443,true,0%,84ms,-,240b:4000:93:de00:ffff:bf34:3278:12,IPv6,SIN,SG,Asia Pacific,Singapore,AS45102,"Alibaba US Technology Co., Ltd."
-172.237.84.250,443,true,0%,84ms,-,2600:3c15::2000:cdff:fee6:ece6,IPv6,SIN,SG,Asia Pacific,Singapore,AS63949,Akamai Connected Cloud
-165.22.248.134,443,true,0%,85ms,-,2400:6180:0:d2:0:2:5f13:f000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-140.245.62.90,2096,true,0%,85ms,-,140.245.62.90,IPv4,SIN,SG,Asia Pacific,Singapore,AS31898,Oracle Corporation
-192.206.117.225,443,true,0%,85ms,-,160.22.79.179,IPv4,SIN,SG,Asia Pacific,Singapore,AS152900,Onidel Pty Ltd
-172.104.186.18,8443,true,0%,85ms,-,2400:8901::f03c:93ff:feec:2279,IPv6,SIN,SG,Asia Pacific,Singapore,AS63949,Akamai Connected Cloud
-172.235.202.165,443,true,0%,86ms,-,2400:8905::2000:1bff:fee3:199f,IPv6,KIX,JP,Asia Pacific,Osaka,AS63949,Akamai Connected Cloud
-103.53.80.84,443,true,0%,86ms,-,2a14:640:1:57f5::1,IPv6,NRT,JP,Asia Pacific,Tokyo,AS3258,xTom Japan Corporation
-167.172.90.175,443,true,0%,86ms,-,2400:6180:0:d2:0:2:c89f:4000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-174.138.20.108,443,true,0%,86ms,-,2400:6180:0:d2:0:2:baaa:1000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-209.97.160.109,443,true,0%,86ms,-,2400:6180:0:d2:0:2:854a:2000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-143.198.93.1,443,true,0%,87ms,-,143.198.93.1,IPv4,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-152.42.174.66,443,true,0%,87ms,-,2400:6180:0:d2:0:2:c89c:7000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-167.71.198.82,8443,true,0%,87ms,-,167.71.198.82,IPv4,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-146.190.100.44,443,true,0%,87ms,-,2400:6180:0:d2:0:2:c821:9000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-165.245.144.113,443,true,0%,87ms,-,2400:6180:0:d2:0:2:c5be:5000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-167.71.220.89,443,true,0%,87ms,-,2400:6180:0:d2:0:2:c89f:3000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-77.93.90.231,443,true,0%,87ms,-,2a14:7dc0:203:cd0::d23,IPv6,SIN,SG,Asia Pacific,Singapore,AS63150,BAGE CLOUD LLC
-68.183.231.228,443,true,0%,87ms,-,2400:6180:0:d2:0:2:c89f:2000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-47.82.155.79,8443,true,0%,87ms,-,47.82.155.79,IPv4,SIN,SG,Asia Pacific,Singapore,AS45102,"Alibaba US Technology Co., Ltd."
-116.251.216.12,8443,true,0%,87ms,-,2405:4200:f001:9ca7::1,IPv6,SIN,SG,Asia Pacific,Singapore,AS24482,SG.GS
-188.166.251.234,443,true,0%,87ms,-,2400:6180:0:d2:0:2:cd52:a000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-47.82.155.79,443,true,0%,88ms,-,47.82.155.79,IPv4,SIN,SG,Asia Pacific,Singapore,AS45102,"Alibaba US Technology Co., Ltd."
-47.82.164.1,443,true,0%,88ms,-,240b:4000:93:de00:ffff:1c94:88d:6ec5,IPv6,SIN,SG,Asia Pacific,Singapore,AS45102,"Alibaba US Technology Co., Ltd."
-143.198.85.69,443,true,0%,88ms,-,2400:6180:0:d2:0:2:9f93:b000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-47.82.155.79,2053,true,0%,88ms,-,47.82.155.79,IPv4,SIN,SG,Asia Pacific,Singapore,AS45102,"Alibaba US Technology Co., Ltd."
-178.128.86.3,443,true,0%,88ms,-,178.128.86.3,IPv4,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-172.236.154.50,443,true,0%,88ms,-,2600:3c15::2000:84ff:fe8c:740f,IPv6,SIN,SG,Asia Pacific,Singapore,AS63949,Akamai Connected Cloud
-139.162.61.34,443,true,0%,89ms,-,139.162.61.34,IPv4,SIN,SG,Asia Pacific,Singapore,AS63949,Akamai Connected Cloud
-165.22.254.170,443,true,0%,89ms,-,165.22.254.170,IPv4,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-167.71.221.62,443,true,0%,90ms,-,2400:6180:0:d2:0:2:9f93:5000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-43.134.174.114,443,true,0%,90ms,-,43.134.174.114,IPv4,SIN,SG,Asia Pacific,Singapore,AS132203,"Tencent Building, Kejizhongyi Avenue"
-174.138.27.228,443,true,0%,91ms,-,2400:6180:0:d2:0:2:c89f:5000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-143.198.213.81,443,true,0%,91ms,-,2400:6180:0:d2:0:2:8664:5000,IPv6,SIN,SG,Asia Pacific,Singapore,AS14061,"DigitalOcean, LLC"
-126.220.82.161,443,true,0%,92ms,-,2400:2653:28a0:7400:6ed8:6d16:317c:2490,IPv6,KIX,JP,Asia Pacific,Osaka,AS17676,SoftBank Corp.
+IP地址,端口号,TLS,丢包率,网络延迟,IP类型,数据中心,源IP位置,ASN号码,ASN组织
+122.10.119.252,443,true,0%,51ms,IPv6,HKG,HK,AS55933,Cloudie Limited
+205.189.160.29,443,true,0%,52ms,IPv6,HKG,HK,AS133752,LEASEWEB HONG KONG LIMITED
+219.76.13.183,443,true,0%,53ms,IPv4,HKG,HK,AS4760,HKT Limited
+163.5.58.140,443,true,0%,53ms,IPv6,HKG,HK,AS42960,VH Global Limited
+38.147.173.136,443,true,0%,54ms,IPv6,HKG,HK,AS139659,LUCIDACLOUD LIMITED
+219.76.13.169,443,true,0%,55ms,IPv4,HKG,HK,AS4760,HKT Limited
+219.76.13.166,443,true,0%,55ms,IPv4,HKG,HK,AS4760,HKT Limited
+43.254.164.50,8443,true,0%,55ms,IPv6,HKG,HK,AS202662,Hytron Network Services Limited
+47.83.14.42,8443,true,0%,56ms,IPv6,TPE,HK,AS45102,"Alibaba US Technology Co., Ltd."
+43.154.131.189,443,true,0%,56ms,IPv4,HKG,HK,AS132203,"Tencent Building, Kejizhongyi Avenue"
+47.242.28.106,443,true,0%,57ms,IPv6,KIX,JP,AS20473,"The Constant Company, LLC"
+91.213.189.79,443,true,0%,58ms,IPv6,HKG,HK,AS967,VMISS Inc.
+172.105.240.40,443,true,0%,58ms,IPv6,NRT,JP,AS63949,Akamai Connected Cloud
+103.43.191.121,8443,true,0%,59ms,IPv6,HKG,HK,AS139021,West263 International Limited
+103.224.80.7,2087,true,0%,61ms,IPv6,HKG,HK,AS13335,"Cloudflare, Inc."
+103.39.78.118,8443,true,0%,61ms,IPv6,HKG,HK,AS202662,Hytron Network Services Limited
+43.207.197.79,443,true,0%,63ms,IPv6,NRT,JP,AS16509,"Amazon.com, Inc."
+45.8.115.105,2096,true,0%,64ms,IPv6,KIX,JP,AS4785,xTom
+172.238.6.57,443,true,0%,65ms,IPv4,NRT,JP,AS63949,Akamai Connected Cloud
+35.79.146.187,443,true,0%,66ms,IPv6,NRT,JP,AS16509,"Amazon.com, Inc."
+103.192.179.132,443,true,0%,67ms,IPv4,HKG,HK,AS150452,LANDUPS LIMITED
+158.51.110.61,8443,true,0%,71ms,IPv6,NRT,JP,AS18526,"DDPS Networks, LLC"
+47.79.38.36,443,true,0%,77ms,IPv6,NRT,JP,AS45102,"Alibaba US Technology Co., Ltd."
+45.196.233.37,443,true,0%,78ms,IPv6,NRT,KR,AS61112,AKILE LTD
+216.23.86.62,2053,true,0%,78ms,IPv6,NRT,JP,AS216211,Cyberverse LLC
+151.241.131.13,8443,true,0%,80ms,IPv4,NRT,JP,AS36530,IDC Cube
+154.12.191.129,443,true,0%,80ms,IPv6,NRT,JP,AS906,DMIT Cloud Services
+43.160.195.223,443,true,0%,82ms,IPv4,SIN,SG,AS132203,"Tencent Building, Kejizhongyi Avenue"
+195.172.138.225,443,true,0%,83ms,IPv6,SIN,SG,AS216245,Cyberjet Pte. Ltd.
+146.190.87.188,443,true,0%,83ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+152.42.247.235,443,true,0%,83ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+139.162.62.195,443,true,0%,83ms,IPv6,SIN,SG,AS63949,Akamai Connected Cloud
+47.82.178.58,443,true,0%,84ms,IPv6,SIN,SG,AS45102,"Alibaba US Technology Co., Ltd."
+172.237.84.250,443,true,0%,84ms,IPv6,SIN,SG,AS63949,Akamai Connected Cloud
+165.22.248.134,443,true,0%,85ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+140.245.62.90,2096,true,0%,85ms,IPv4,SIN,SG,AS31898,Oracle Corporation
+192.206.117.225,443,true,0%,85ms,IPv4,SIN,SG,AS152900,Onidel Pty Ltd
+172.104.186.18,8443,true,0%,85ms,IPv6,SIN,SG,AS63949,Akamai Connected Cloud
+172.235.202.165,443,true,0%,86ms,IPv6,KIX,JP,AS63949,Akamai Connected Cloud
+103.53.80.84,443,true,0%,86ms,IPv6,NRT,JP,AS3258,xTom Japan Corporation
+167.172.90.175,443,true,0%,86ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+174.138.20.108,443,true,0%,86ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+209.97.160.109,443,true,0%,86ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+143.198.93.1,443,true,0%,87ms,IPv4,SIN,SG,AS14061,"DigitalOcean, LLC"
+152.42.174.66,443,true,0%,87ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+167.71.198.82,8443,true,0%,87ms,IPv4,SIN,SG,AS14061,"DigitalOcean, LLC"
+146.190.100.44,443,true,0%,87ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+165.245.144.113,443,true,0%,87ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+167.71.220.89,443,true,0%,87ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+77.93.90.231,443,true,0%,87ms,IPv6,SIN,SG,AS63150,BAGE CLOUD LLC
+68.183.231.228,443,true,0%,87ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+47.82.155.79,8443,true,0%,87ms,IPv4,SIN,SG,AS45102,"Alibaba US Technology Co., Ltd."
+116.251.216.12,8443,true,0%,87ms,IPv6,SIN,SG,AS24482,SG.GS
+188.166.251.234,443,true,0%,87ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+47.82.155.79,443,true,0%,88ms,IPv4,SIN,SG,AS45102,"Alibaba US Technology Co., Ltd."
+47.82.164.1,443,true,0%,88ms,IPv6,SIN,SG,AS45102,"Alibaba US Technology Co., Ltd."
+143.198.85.69,443,true,0%,88ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+47.82.155.79,2053,true,0%,88ms,IPv4,SIN,SG,AS45102,"Alibaba US Technology Co., Ltd."
+178.128.86.3,443,true,0%,88ms,IPv4,SIN,SG,AS14061,"DigitalOcean, LLC"
+172.236.154.50,443,true,0%,88ms,IPv6,SIN,SG,AS63949,Akamai Connected Cloud
+139.162.61.34,443,true,0%,89ms,IPv4,SIN,SG,AS63949,Akamai Connected Cloud
+165.22.254.170,443,true,0%,89ms,IPv4,SIN,SG,AS14061,"DigitalOcean, LLC"
+167.71.221.62,443,true,0%,90ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+43.134.174.114,443,true,0%,90ms,IPv4,SIN,SG,AS132203,"Tencent Building, Kejizhongyi Avenue"
+174.138.27.228,443,true,0%,91ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+143.198.213.81,443,true,0%,91ms,IPv6,SIN,SG,AS14061,"DigitalOcean, LLC"
+126.220.82.161,443,true,0%,92ms,IPv6,KIX,JP,AS17676,SoftBank Corp.
